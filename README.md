@@ -32,9 +32,7 @@ Just a line — added out of nowhere:
 And below it, tucked between two dead markdown links, was this:
 
 
-### 📧 Email & Breach Lookups
-   it.floats.red@protonmail.com
-   
+
 ### 📎 Metadata & File Analysis
 - `exiftool`, `strings`, `binwalk` – the usual suspects.
 
@@ -48,7 +46,8 @@ Some said it responded — others said their IPs were logged and reversed.
 Tools lie here. But so do stories, clues, and strange footprints from accounts that don’t exist anymore.
 
 You’re not just here to browse. You’re here to dig.
-
+### 📧 Email & Breach Lookups
+   it.floats.red@protonmail.com
 🎯 *Find the trails. Trace the metadata. De-obfuscate the rest.*
 
 There are no balloons in this repo. But there might be echoes.
